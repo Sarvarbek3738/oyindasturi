@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(to bottom right , #293241 ,#3d5a80 );
+    height: 100vh;
+
+}
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.hero{
+    margin: 50px 0px;
+}
+.mualif h1{
+    font-weight: normal;
+}
+.finish h1{
+    font-weight: normal;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(to bottom right , #293241 ,#3d5a80 );
+    background-repeat: no-repeat;
+    padding: 50px;
+    box-shadow: 0px 0px 20px 1px #e0fbfc;
+    color: #e0fbfc;
+    border-radius: 10px;
+
+}
+.tezlik select{
+    padding: 5px 20px;
+    border-radius: 6px;
+    border: none;
+    margin-bottom: 200px;
+    outline: none;
+
+}
+.temp{
+    text-align: center;
+}
+.Sozlar{
+    padding-bottom: 40px;
+    font-size: 30px;
+    
+}
+.Sozlar h2{
+    font-weight: normal;
+    
+}
+.mode {
+    width: 400px;
+    padding: 12px 5px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+}
+.vaqt{
+    padding-top: 100px;
+    padding-bottom: 90px;
+}
